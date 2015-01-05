@@ -1,2 +1,2 @@
-Dodajemy linijke
+Zmieniona linijka
 Linijka na branchu work
